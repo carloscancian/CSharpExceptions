@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.exe
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.deps.json
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.runtimeconfig.json
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.dll
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\ref\CriandoPropriasExceptions.dll
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\bin\Debug\net5.0\CriandoPropriasExceptions.pdb
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.AssemblyInfo.cs
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.dll
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\ref\CriandoPropriasExceptions.dll
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.pdb
+C:\Users\carlo\source\repos\CriandoPropriasExceptions\obj\Debug\net5.0\CriandoPropriasExceptions.genruntimeconfig.cache
